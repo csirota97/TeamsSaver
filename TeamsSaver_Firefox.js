@@ -1,3 +1,8 @@
+/**
+*
+*  Recent changes may have broken this. If issues are found, please log them.
+*
+*/
 const ITERATION_COUNT = 10;
 
 const megalist = {
